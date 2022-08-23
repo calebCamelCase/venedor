@@ -1,0 +1,11 @@
+.venedor-indicators{
+    background-color: #434746;
+}
+
+.venedor-indicators:hover{
+    background-color: #5da7a8;
+}
+
+.sales-panel{
+    border: 1px solid blue;
+}
